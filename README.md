@@ -5,5 +5,5 @@ Taxwise is a Python-based tax calculator that helps individuals calculate their 
 1. Clone ths repository
 
    git clone https://github.com/InesBi/taxwise.git
-   cd taxwise
+  
 
